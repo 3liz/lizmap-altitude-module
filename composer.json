@@ -1,0 +1,24 @@
+{
+    "name": "lizmap/lizmap-altitude-module",
+    "type": "jelix-module",
+    "description": "Jelix module for Lizmap, which adds tools to manage addresses",
+    "keywords": ["module", "jelix", "lizmap", "altitude", "dem", "postgresql", "raster"],
+    "homepage": "http://3liz.com",
+    "license": "MPL-2.0",
+    "authors": [
+        {
+            "name": "Michaël DOUCHIN",
+            "email": "mdouchin@3liz.com"
+        }
+    ],
+    "require": {
+    },
+    "minimum-stability": "stable",
+    "extra" : {
+        "jelix" : {
+            "modules": [
+                "altitude/"
+            ]
+        }
+    }
+}
