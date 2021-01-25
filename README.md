@@ -1,3 +1,7 @@
+# Deprecated
+
+This module is now deprecated in favor of https://github.com/arno974/lizmap-altiProfil
+
 # Module Lizmap altitude
 
 Module Lizmap d'ajout d'outils de requêtes sur les raster d'altitude stockés dans PostgreSQL
